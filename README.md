@@ -27,7 +27,7 @@ The Five-Band Audio Equalizer project focuses on the development and implementat
 
 ##### Schematic Diagram
 
-![Equilizer Schematic Diagram](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/EquilizerSchematicDiagram.png)
+![Equilizer Schematic Diagram](assets/EquilizerSchematicDiagram.png)
 
 ##### PCB Layout
 
