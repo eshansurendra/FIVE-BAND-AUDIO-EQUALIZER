@@ -60,7 +60,9 @@ The enclosure design was developed using SolidWorks, focusing on aesthetics, fun
 
 #### Enclosure
 
-![Enclosure Design](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+![Enclosure Design](assets/Enclosure_Lid.png)
+![Enclosure Design](assets/Enclosure_Bottom_part.png)
+![Enclosure Design](assets/enclousure_assembly_view.png)
 
 ## Team Members - ElectroMavericks Team
 
