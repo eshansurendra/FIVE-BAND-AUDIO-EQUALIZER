@@ -1,20 +1,70 @@
 # Five-Band Audio Equalizer
 
 ## Overview
-This repository contains project files for a Five-Band Audio Equalizer developed as part of the Laboratory Practice module for semester 3. The project aims to create a graphic equalization circuit with five bands using audio filters.
+
+The Five-Band Audio Equalizer project focuses on the development and implementation of a graphic equalization circuit that can manipulate audio signals across five specific frequency bands. Designed as part of the Laboratory Practice module in semester 3, this project aims to enhance hands-on skills in electronics by creating a fully functional audio equalizer using operational amplifier (op-amp) based active filters, enabling the adjustment of gains across the low, mid, and high-frequency ranges.
 
 ## Features
-- Utilizes audio filters to separate low, high, and mid-range frequencies of the audio stream.
-- Incorporates low-pass, high-pass, and band-pass filter circuits.
-- Uses operational amplifier-based active filters (op-amps).
-- Capable of adding gains in five frequency bands:
-  - 20-300Hz
-  - 300-1kHz
-  - 1kHz-4kHz
-  - 4kHz-10kHz
-  - 10kHz-20kHz
-![IMG-20231016-WA0028](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/107745680/5247167f-9c37-4f9d-a2ac-99931c847863)
-![IMG-20231205-WA0009](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/107745680/f7c32e94-5d81-4984-b3e1-c288cd05af75)
-![IMG-20231103-WA0027](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/107745680/59bdc167-e46b-420c-9125-89b3c9a06db9)
-![IMG-20231202-WA0020](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/107745680/e030a468-b502-430e-95ab-31fd8b6ea7b3)
-![IMG-20231206-WA0032](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/107745680/f167cc27-a3da-47d0-bc28-b401d62a587b)
+
+- **Adjustable Frequency Bands**: Control over five specific frequency ranges for detailed audio customization.
+  - Low: 20-300Hz
+  - Low Mid: 300-1kHz
+  - Mid: 1kHz-4kHz
+  - High Mid: 4kHz-10kHz
+  - High: 10kHz-20kHz
+- **Active Filtering**: Utilization of low-pass, high-pass, and band-pass filters to isolate and adjust specific frequency bands.
+- **Op-Amp Circuits**: Employment of operational amplifiers for the filter circuits, ensuring high-quality signal processing.
+
+## Tools Used
+
+- **Circuit Design & Simulation**: Filter Pro for filter calculations and NI Multisim for circuit simulation.
+- **PCB Design**: Altium Designer for creating the printed circuit board layout.
+- **Enclosure Design**: SolidWorks for designing the custom enclosure.
+
+### Circuit Design
+
+#### Equilizer Circuit
+
+##### Schematic Diagram
+
+![Equilizer Schematic Diagram](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets/EquilizerSchematicDiagram.png)
+
+##### PCB Layout
+
+![Equilizer PCB Layout](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+
+##### PCB 3D View
+
+![Equilizer PCB 3D View](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+
+#### LED Display Circuit
+
+##### Schematic Diagram
+
+![LED Display Circuit Schematic Diagram](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+
+##### PCB Layout
+
+![LED Display PCB Layout](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+
+##### PCB 3D View
+
+![LED Display PCB 3D View](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+
+
+### Enclosure Design
+
+The enclosure design was developed using SolidWorks, focusing on aesthetics, functionality, and durability.
+
+#### Enclosure
+
+![Enclosure Design](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+
+## Team Members - ElectroMavericks Team
+
+This project is proudly developed by the ElectroMavericks Team:
+
+- [**Prabodha K.P.K.A**](https://github.com/AkhilaPrabodha)
+- [**Vidmal H.V.P**](https://github.com/pulinduvidmal)
+- [**Nayanthara J.N.P**](https://github.com/Navini11)
+- [**Surendra S.A.J.E**](https://github.com/eshansurendra)
