@@ -31,25 +31,27 @@ The Five-Band Audio Equalizer project focuses on the development and implementat
 
 ##### PCB Layout
 
-![Equilizer PCB Layout](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+![Equilizer PCB Layout](assets/pcb_main_1.png)
+![Equilizer PCB Layout](assets/pcb_main_2.png)
 
 ##### PCB 3D View
 
-![Equilizer PCB 3D View](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+![Equilizer PCB 3D View](assets/pcb_main_3D.png)
+![Equilizer PCB 3D View](assets/pcb_main_3D_2.png)
 
 #### LED Display Circuit
 
 ##### Schematic Diagram
 
-![LED Display Circuit Schematic Diagram](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+![LED Display Circuit Schematic Diagram](assets/LED_sch.png)
 
 ##### PCB Layout
 
-![LED Display PCB Layout](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+![LED Display PCB Layout](assets/pcb_LED.png)
 
 ##### PCB 3D View
 
-![LED Display PCB 3D View](https://github.com/pulinduvidmal/FIVE-BAND-AUDIO-EQUALIZER/assets//Schematic)
+![LED Display PCB 3D View](assets/LED_display_3D.png)
 
 
 ### Enclosure Design
